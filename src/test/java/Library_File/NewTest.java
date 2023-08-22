@@ -16,6 +16,16 @@ public class NewTest
 		
 	  
 	   System.out.println("postjira");
+	   System.out.println("postjira2");
+	   System.out.println("postjira3");
+	   //dg
+	   //juuweu
+	   //ijijf
+	   System.out.println("postjira");
+	   System.out.println("postjira2");
+	   System.out.println("postjira3");
+	   
+	   
 		
 		
 		
